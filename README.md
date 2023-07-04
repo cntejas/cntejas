@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm C N Tejas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently a **Student**
-
-- 🌱 I’m currently learning **react,node.js**
-
 - 💻 I’m a **Competitive programmer**
 
 - 💡 I'm also good at **Data structures and Algorithms**
